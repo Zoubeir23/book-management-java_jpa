@@ -1,6 +1,6 @@
-package repository;
+package sn.iage.isi.repository;
 
-import entity.Book;
+import sn.iage.isi.entity.Book;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.TypedQuery;
 import java.util.List;

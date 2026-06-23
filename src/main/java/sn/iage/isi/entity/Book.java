@@ -1,4 +1,4 @@
-package entity;
+package sn.iage.isi.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
