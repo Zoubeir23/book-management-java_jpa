@@ -1,0 +1,23 @@
+# Maven
+target/
+*.jar
+*.war
+*.ear
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
