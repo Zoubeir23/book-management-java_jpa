@@ -8,7 +8,8 @@
     <persistence-unit name="book_pu" transaction-type="RESOURCE_LOCAL">
         <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
         
-        <class>sn.iage.isi.entity.Book</class>
+        <class>sn.iage.isi.entities.Book</class>
+        <class>sn.iage.isi.entities.Category</class>
 
         <properties>
             <!-- Configuration de la base de données (exemple MySQL) -->
